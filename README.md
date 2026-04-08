@@ -10,6 +10,7 @@ En samling artiklar om AI-forskning och Anthropic.
 | 2 | [Anthropics fem pelare: från konstitutionella regler till mekanistisk förståelse](2.md) | Anthropic har sedan 2022 byggt ett forskningsprogram som rör sig i en tydlig riktning — från att styra AI-beteende utifrån, via att förstå vad som händer inuti modellerna, till att strukturera hur modeller interagerar med omvärlden och verifiera alignment över organisationsgränser. |
 | 3 | [Hur man tänker med Claude: lager, protokoll och praktisk arkitektur](3.md) | Claude och liknande AI-system är inte monolitiska svarta lådor — de är skiktade system med distinkta arkitekturlager, protokoll och designval som avgör hur de beter sig. |
 | 4 | [När AI-system fallerar: mekanismer, mönster och motåtgärder](4.md) | AI-system misslyckas inte slumpmässigt. |
+| 5 | [Att bygga agentsystem: orkestrering, delegation och verktygskedjor i praktiken](5.md) | De fyra föregående artiklarna i den här serien har rört sig från historik via forskningspelare och arkitektur till fellägen. |
 
 ## Licens
 
